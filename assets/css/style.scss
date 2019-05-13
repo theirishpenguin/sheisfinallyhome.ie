@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-content.p {
-    text-align: center;
+.main-content > p {
+    text-align: center !important;
+}
+
+.site-footer {
+    text-align: center !important;
 }
