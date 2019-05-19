@@ -1,6 +1,20 @@
 &nbsp;
 <br />
 
+
+<a class="lightbox" href="#goofy">
+   Foo
+</a> 
+<div class="lightbox-target" id="goofy">
+   <img src="../../../assets/images/skeleton-digital-picture-800.jpeg"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+
+<!--
+{% include lightbox.html
+src="" data="group" title="Sample Title" %}
+-->
+
 Was it a Love Boat or No's Ark,
 
 As stories suppressed came out of dark,
