@@ -9,7 +9,11 @@ As stories suppressed came out of dark,
 
 When Yes went high, the No went Lowe,
 
-But the {% include lightbox.html text="gasp of the crowd" targetid="saoirsetweet" src="../../../sheisfinallyhome.ie/assets/images/saoirse-tweet.png" data="group" title="Saoirse PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "The reaction of the audience to the reply Saoirse received on PKLive is not in this clip but was momentus...") did steal the show.
+But the {% include lightbox.html text="gasp of the crowd" targetid="saoirsetweet" src="../../../sheisfinallyhome.ie/assets/images/saoirse-tweet.png" data="group" title="Saoirse PKLive tweet" %} did steal the show.
+
+y
+
+[🎥](https://twitter.com/EricaHome1/status/999407960781742080 "The reaction of the audience to the reply Saoirse received on PKLive is not in this clip but was momentus...")
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
