@@ -1,8 +1,6 @@
 &nbsp;
 <br />
 
-{% include lightbox.html text="Bar 1" targetid="trg1" src="../../../assets/images/skeleton-digital-picture-800.jpeg" data="group" title="Sample Title" %}
-
 Was it a Love Boat or No's Ark,
 
 As stories suppressed came out of dark,
