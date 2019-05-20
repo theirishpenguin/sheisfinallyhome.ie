@@ -1,1 +1,7 @@
-<a href="{{ site.github.url }}/assets/img/{{ include.src }}" data-lightbox="{{ include.data }}" data-title="{{ include.title }}"><img src="{{ site.github.url }}/assets/img/{{ include.src }}" alt="{{ include.title }}"/></a>
+<a class="lightbox" href="#{{include.targetid}}">
+   {{include.text}}
+</a>
+<div class="lightbox-target" id="{{include.targetid}}">
+   <img src="{{include.src}}"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
