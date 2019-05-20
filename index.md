@@ -1,19 +1,12 @@
-&nbsp;
-<br />
-
 Was it a Love Boat or No's Ark,
 
 As stories suppressed came out of dark,
 
 When Yes went high, the No went Lowe,
 
-But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Saoirse PKLive tweet" %} did steal the show.
+But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Saoirse PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "The reaction of the audience to the reply Saoirse received on PKLive is not in this clip but was momentus...") did steal the show.
 
 {% include lightbox-popup.html targetid="saoirsetweet" src="../../../sheisfinallyhome.ie/assets/images/saoirse-tweet.png" %}
-
-a
-
-[🎥](https://twitter.com/EricaHome1/status/999407960781742080 "The reaction of the audience to the reply Saoirse received on PKLive is not in this clip but was momentus...")
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
@@ -111,4 +104,4 @@ No longer alone,
 
 She is finally home.
 
-<img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" />
+<img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" style="max-width=300px;" />
