@@ -16,9 +16,11 @@ When the hard cases talked, the nut cases balked,
 
 When going got tough, the waters walked,
 
-Posters went up, then [came tumbling down](https://twitter.com/rodericogorman/status/991642555120078849),
+Posters went up, then {% include lightbox-anchor.html text="came tumbling down" targetid="cllrroderic" title="Image of Poster Pulldown tweet" %},
 
 The [mountain said No](https://twitter.com/rtenews/status/997064195538534400), but [not the town](https://twitter.com/thejournal_ie/status/1000427302768046080).
+
+{% include lightbox-popup.html targetid="cllrroderic" src="../../../sheisfinallyhome.ie/assets/images/cllr-roderic.png" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
@@ -109,3 +111,9 @@ She is finally home.
 <br />
 
 <img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" style="max-width:300px;" />
+
+<!--
+
+TODO - References
+[came tumbling down](https://twitter.com/rodericogorman/status/991642555120078849)
+-->
