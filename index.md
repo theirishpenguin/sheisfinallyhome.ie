@@ -4,7 +4,7 @@ As stories suppressed came out of dark,
 
 When Yes went high, the No went Lowe,
 
-But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Saoirse PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "The reaction of the audience to the reply Saoirse received on PKLive is not in this clip but was momentus...") did steal the show.
+But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Image of Saoirse Long PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "Original Saoirse Long PKLIve tweet (video - but does not include politician comments nor the resulting crowd reaction") did steal the show.
 
 {% include lightbox-popup.html targetid="saoirsetweet" src="../../../sheisfinallyhome.ie/assets/images/saoirse-tweet.png" %}
 
