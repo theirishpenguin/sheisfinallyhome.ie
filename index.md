@@ -112,3 +112,5 @@ Now knows she's accepted,
 No longer alone,
 
 She is finally home.
+
+<img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" />
