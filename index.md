@@ -104,4 +104,8 @@ No longer alone,
 
 She is finally home.
 
-<img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" style="max-width=300px;" />
+<br />
+<hr style="width: 30%; margin-left: auto; margin-right: auto;" />
+<br />
+
+<img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" style="max-width:300px;" />
