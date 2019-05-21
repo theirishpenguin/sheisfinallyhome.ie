@@ -80,11 +80,13 @@ As they waited in line.
 
 Searching for truth, amongst liars and cheaters,
 
-Our guiding light was the [thought of Savita](https://twitter.com/Together4yes/status/1001010635872849920),
+Our guiding light was the {% include lightbox-anchor.html text="thought of Savita" targetid="savita-tweet" title="Image of Savita tweet" %},
 
 The women made fly, the women made die,
 
 They shared their stories, they made us cry.
+
+{% include lightbox-popup.html targetid="savita-tweet" src="/assets/images/savita.png" popout-src="https://twitter.com/Together4yes/status/1001010635872849920" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
@@ -127,9 +129,3 @@ She is finally home.
 <br />
 
 <img src="/assets/images/she-is-finally-home-image.jpg" style="max-width:300px;" />
-
-<!--
-
-TODO - References
-[came tumbling down](https://twitter.com/rodericogorman/status/991642555120078849)
--->
