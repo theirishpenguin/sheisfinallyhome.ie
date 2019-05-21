@@ -18,9 +18,17 @@ When going got tough, the waters walked,
 
 Posters went up, then {% include lightbox-anchor.html text="came tumbling down" targetid="cllrroderic" title="Image of Poster Pulldown tweet" %},
 
+The {% include lightbox-anchor.html text="mountain said No" targetid="mountain-no-tweet" title="Image of Mountain No tweet" %}, but {% include lightbox-anchor.html text="not the town" targetid="town-says-yes-tweet" title="Image of Sligo repeal voting result tweet" %}
+
+<!--
 The [mountain said No](https://twitter.com/rtenews/status/997064195538534400), but [not the town](https://twitter.com/thejournal_ie/status/1000427302768046080).
+-->
 
 {% include lightbox-popup.html targetid="cllrroderic" src="/assets/images/cllr-roderic.png" %}
+
+{% include lightbox-popup.html targetid="mountain-no-tweet" src="/assets/images/mountain-no.png" %}
+
+{% include lightbox-popup.html targetid="town-says-yes-tweet" src="/assets/images/town-says-yes.png" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
