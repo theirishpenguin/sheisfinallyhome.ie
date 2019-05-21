@@ -38,18 +38,23 @@ For our sisters, our daughters, our girl friends, our mothers,
 
 Politicians did us proud, some more than others,
 
-
 {% include lightbox-anchor.html text="Car horns beeped" targetid="beep-tweet" title="Image of Beep tweet" %}, online {% include lightbox-anchor.html text="we weeped" targetid="weep-and-joy-tweet" title="Image of tears and joy tweet" %}
 
 <!--
 [Car horns beeped](https://twitter.com/mondaygirl/status/999548157733175301), online [we weeped](https://twitter.com/BarryLenihan/status/1000395568496234497),
 -->
 
+{% include lightbox-anchor.html text="Badges were beacons" targetid="badges-tweet" title="Image of Badge tweet" %}, when comrades we seeked.
+
+<!--
 [Badges were beacons](https://twitter.com/EmerTheScreamer/status/999539247471316992), when comrades we seeked.
+-->
 
 {% include lightbox-popup.html targetid="beep-tweet" src="/assets/images/beep.png" %}
 
 {% include lightbox-popup.html targetid="weep-and-joy-tweet" src="/assets/images/weep-and-joy.png" %}
+
+{% include lightbox-popup.html targetid="badges-tweet" src="/assets/images/badges.png" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
