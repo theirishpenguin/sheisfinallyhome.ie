@@ -60,13 +60,19 @@ Politicians did us proud, some more than others,
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
 <br />
 
+The {% include lightbox-anchor.html text="grandads with ice cream" targetid="grandads-with-ice-cream-tweet" title="Image of Grandads with ice cream tweet" %},
+
+<!--
 The [grandads with ice cream](https://twitter.com/AnTaobhRua/status/999617861747380224 "Grandads with ice cream tweeted image..."),
+-->
 
 The lifts to the station,
 
 First jumpers were knitted,
 
 Then [knitted the nation](https://twitter.com/HoorayForNiamh/status/999272813465866240).
+
+{% include lightbox-popup.html targetid="grandads-with-ice-cream-tweet" src="/assets/images/grandads-with-ice-cream.png" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
