@@ -6,7 +6,7 @@ When Yes went high, the No went Lowe,
 
 But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Image of Saoirse Long PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "Original Saoirse Long PKLIve tweet (video - but does not include politician comments nor the resulting crowd reaction") did steal the show.
 
-{% include lightbox-popup.html targetid="saoirsetweet" src="/assets/images/saoirse-tweet.png" %}
+{% include lightbox-popup.html targetid="saoirsetweet" src="/assets/images/saoirse-tweet.png" popout-src="https://twitter.com/EricaHome1/status/999407960781742080" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
