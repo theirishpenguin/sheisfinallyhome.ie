@@ -6,10 +6,6 @@ When Yes went high, the No went Lowe,
 
 But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Image of Saoirse Long PKLive tweet" %} did steal the show.
 
-<!--
-[🎥](https://twitter.com/EricaHome1/status/999407960781742080 "Original Saoirse Long PKLIve tweet (video - but does not include politician comments nor the resulting crowd reaction")
--->
-
 {% include lightbox-popup.html targetid="saoirsetweet" src="/assets/images/saoirse-tweet.png" popout-src="https://twitter.com/EricaHome1/status/999407960781742080" %}
 
 <br />
@@ -23,10 +19,6 @@ When going got tough, the waters walked,
 Posters went up, then {% include lightbox-anchor.html text="came tumbling down" targetid="cllrroderic" title="Image of Poster Pulldown tweet" %},
 
 The {% include lightbox-anchor.html text="mountain said No" targetid="mountain-no-tweet" title="Image of Mountain No tweet" %}, but {% include lightbox-anchor.html text="not the town" targetid="town-says-yes-tweet" title="Image of Sligo repeal voting result tweet" %}
-
-<!--
-The [mountain said No](https://twitter.com/rtenews/status/997064195538534400), but [not the town](https://twitter.com/thejournal_ie/status/1000427302768046080).
--->
 
 {% include lightbox-popup.html targetid="cllrroderic" src="/assets/images/cllr-roderic.png" popout-src="https://twitter.com/rodericogorman/status/991642555120078849" %}
 
@@ -44,15 +36,7 @@ Politicians did us proud, some more than others,
 
 {% include lightbox-anchor.html text="Car horns beeped" targetid="beep-tweet" title="Image of Beep tweet" %}, online {% include lightbox-anchor.html text="we weeped" targetid="weep-and-joy-tweet" title="Image of tears and joy tweet" %}
 
-<!--
-[Car horns beeped](https://twitter.com/mondaygirl/status/999548157733175301), online [we weeped](https://twitter.com/BarryLenihan/status/1000395568496234497),
--->
-
 {% include lightbox-anchor.html text="Badges were beacons" targetid="badges-tweet" title="Image of Badge tweet" %}, when comrades we seeked.
-
-<!--
-[Badges were beacons](https://twitter.com/EmerTheScreamer/status/999539247471316992), when comrades we seeked.
--->
 
 {% include lightbox-popup.html targetid="beep-tweet" src="/assets/images/beep.png" popout-src="https://twitter.com/mondaygirl/status/999548157733175301" %}
 
@@ -66,19 +50,11 @@ Politicians did us proud, some more than others,
 
 The {% include lightbox-anchor.html text="grandads with ice cream" targetid="grandads-with-ice-cream-tweet" title="Image of Grandads with ice cream tweet" %},
 
-<!--
-The [grandads with ice cream](https://twitter.com/AnTaobhRua/status/999617861747380224 "Grandads with ice cream tweeted image..."),
--->
-
 The lifts to the station,
 
 First jumpers were knitted,
 
 Then {% include lightbox-anchor.html text="knitted the nation" targetid="jumper-tweet" title="Image of heartfelt jumper tweet" %},
-
-<!--
-Then [knitted the nation](https://twitter.com/HoorayForNiamh/status/999272813465866240).
--->
 
 {% include lightbox-popup.html targetid="grandads-with-ice-cream-tweet" src="/assets/images/grandads-with-ice-cream.png" popout-src="https://twitter.com/AnTaobhRua/status/999617861747380224" %}
 
@@ -92,9 +68,11 @@ The home to vote heroes,
 
 That came just in time,
 
-Some [got Taytos](https://twitter.com/AoifeNiRaif/status/999739576162963457),
+Some {% include lightbox-anchor.html text="got Taytos" targetid="home-to-vote-taytos-tweet" title="Image of home-to-vote Tayto tweet" %},
 
 As they waited in line.
+
+{% include lightbox-popup.html targetid="home-to-vote-taytos-tweet" src="/assets/images/taytos.png" popout-src="https://twitter.com/AoifeNiRaif/status/999739576162963457" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
