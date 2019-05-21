@@ -6,7 +6,7 @@ When Yes went high, the No went Lowe,
 
 But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Image of Saoirse Long PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "Original Saoirse Long PKLIve tweet (video - but does not include politician comments nor the resulting crowd reaction") did steal the show.
 
-{% include lightbox-popup.html targetid="saoirsetweet" src="../../../sheisfinallyhome.ie/assets/images/saoirse-tweet.png" %}
+{% include lightbox-popup.html targetid="saoirsetweet" src="/assets/images/saoirse-tweet.png" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
@@ -20,7 +20,7 @@ Posters went up, then {% include lightbox-anchor.html text="came tumbling down" 
 
 The [mountain said No](https://twitter.com/rtenews/status/997064195538534400), but [not the town](https://twitter.com/thejournal_ie/status/1000427302768046080).
 
-{% include lightbox-popup.html targetid="cllrroderic" src="../../../sheisfinallyhome.ie/assets/images/cllr-roderic.png" %}
+{% include lightbox-popup.html targetid="cllrroderic" src="/assets/images/cllr-roderic.png" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
@@ -110,7 +110,7 @@ She is finally home.
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
 <br />
 
-<img src="../../../sheisfinallyhome.ie/assets/images/she-is-finally-home-image.jpg" style="max-width:300px;" />
+<img src="/assets/images/she-is-finally-home-image.jpg" style="max-width:300px;" />
 
 <!--
 
