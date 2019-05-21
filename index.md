@@ -4,7 +4,11 @@ As stories suppressed came out of dark,
 
 When Yes went high, the No went Lowe,
 
-But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Image of Saoirse Long PKLive tweet" %} [🎥](https://twitter.com/EricaHome1/status/999407960781742080 "Original Saoirse Long PKLIve tweet (video - but does not include politician comments nor the resulting crowd reaction") did steal the show.
+But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoirsetweet" title="Image of Saoirse Long PKLive tweet" %} did steal the show.
+
+<!--
+[🎥](https://twitter.com/EricaHome1/status/999407960781742080 "Original Saoirse Long PKLIve tweet (video - but does not include politician comments nor the resulting crowd reaction")
+-->
 
 {% include lightbox-popup.html targetid="saoirsetweet" src="/assets/images/saoirse-tweet.png" popout-src="https://twitter.com/EricaHome1/status/999407960781742080" %}
 
@@ -24,11 +28,11 @@ The {% include lightbox-anchor.html text="mountain said No" targetid="mountain-n
 The [mountain said No](https://twitter.com/rtenews/status/997064195538534400), but [not the town](https://twitter.com/thejournal_ie/status/1000427302768046080).
 -->
 
-{% include lightbox-popup.html targetid="cllrroderic" src="/assets/images/cllr-roderic.png" %}
+{% include lightbox-popup.html targetid="cllrroderic" src="/assets/images/cllr-roderic.png" popout-src="https://twitter.com/rodericogorman/status/991642555120078849" %}
 
-{% include lightbox-popup.html targetid="mountain-no-tweet" src="/assets/images/mountain-no.png" %}
+{% include lightbox-popup.html targetid="mountain-no-tweet" src="/assets/images/mountain-no.png" popout-src="https://twitter.com/rtenews/status/997064195538534400" %}
 
-{% include lightbox-popup.html targetid="town-says-yes-tweet" src="/assets/images/town-says-yes.png" %}
+{% include lightbox-popup.html targetid="town-says-yes-tweet" src="/assets/images/town-says-yes.png" popout-src="https://twitter.com/thejournal_ie/status/1000427302768046080" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
