@@ -54,11 +54,11 @@ Politicians did us proud, some more than others,
 [Badges were beacons](https://twitter.com/EmerTheScreamer/status/999539247471316992), when comrades we seeked.
 -->
 
-{% include lightbox-popup.html targetid="beep-tweet" src="/assets/images/beep.png" %}
+{% include lightbox-popup.html targetid="beep-tweet" src="/assets/images/beep.png" popout-src="https://twitter.com/mondaygirl/status/999548157733175301" %}
 
-{% include lightbox-popup.html targetid="weep-and-joy-tweet" src="/assets/images/weep-and-joy.png" %}
+{% include lightbox-popup.html targetid="weep-and-joy-tweet" src="/assets/images/weep-and-joy.png" popout-src="https://twitter.com/BarryLenihan/status/1000395568496234497" %}
 
-{% include lightbox-popup.html targetid="badges-tweet" src="/assets/images/badges.png" %}
+{% include lightbox-popup.html targetid="badges-tweet" src="/assets/images/badges.png" popout-src="https://twitter.com/EmerTheScreamer/status/999539247471316992" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
@@ -74,9 +74,15 @@ The lifts to the station,
 
 First jumpers were knitted,
 
-Then [knitted the nation](https://twitter.com/HoorayForNiamh/status/999272813465866240).
+Then {% include lightbox-anchor.html text="knitted the nation" targetid="jumper-tweet" title="Image of heartfelt jumper tweet" %},
 
-{% include lightbox-popup.html targetid="grandads-with-ice-cream-tweet" src="/assets/images/grandads-with-ice-cream.png" %}
+<!--
+Then [knitted the nation](https://twitter.com/HoorayForNiamh/status/999272813465866240).
+-->
+
+{% include lightbox-popup.html targetid="grandads-with-ice-cream-tweet" src="/assets/images/grandads-with-ice-cream.png" popout-src="https://twitter.com/AnTaobhRua/status/999617861747380224" %}
+
+{% include lightbox-popup.html targetid="jumper-tweet" src="/assets/images/jumper.png" popout-src="https://twitter.com/HoorayForNiamh/status/999272813465866240" %}
 
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
