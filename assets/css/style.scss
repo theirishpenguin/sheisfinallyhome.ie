@@ -3,8 +3,11 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css?family=Antic+Didone&display=swap');
+
 .main-content > p {
     text-align: center !important;
+    font-family: 'Antic Didone', serif;
 }
 
 .site-footer {
