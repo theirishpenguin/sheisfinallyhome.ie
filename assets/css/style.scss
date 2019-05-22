@@ -12,6 +12,7 @@ $break-large: 1200px;
     font-family: 'Antic Didone', serif;
     @media screen and (max-width: $break-large) {
         font-weight: 800;
+        font-size: 120%;
     }
 }
 
