@@ -1,4 +1,4 @@
-Was it a Love Boat or No's Ark,
+Was it a {% include lightbox-anchor.html text="Love Boat" targetid="loveboat" title="Image of Love Boat tweet" %} or No's Ark,
 
 As stories suppressed came out of dark,
 
@@ -8,6 +8,8 @@ But the {% include lightbox-anchor.html text="gasp of the crowd" targetid="saoir
 
 {% include lightbox-popup.html targetid="saoirsetweet" src="/assets/images/saoirse-tweet.png" popout-src="https://twitter.com/EricaHome1/status/999407960781742080" %}
 
+{% include lightbox-popup.html targetid="loveboat" src="/assets/images/loveboat.png" popout-src="https://twitter.com/TarynDeVere/status/989109531459440640" %}
+
 <br />
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
 <br />
@@ -16,9 +18,9 @@ When the hard cases talked, the nut cases balked,
 
 When going got tough, the waters walked,
 
-Posters went up, then {% include lightbox-anchor.html text="came tumbling down" targetid="cllrroderic" title="Image of Poster Pulldown tweet" %},
+Posters went up, then {% include lightbox-anchor.html text="came tumbling down," targetid="cllrroderic" title="Image of Poster Pulldown tweet" %}
 
-The {% include lightbox-anchor.html text="mountain said No" targetid="mountain-no-tweet" title="Image of Mountain No tweet" %}, but {% include lightbox-anchor.html text="not the town" targetid="town-says-yes-tweet" title="Image of Sligo repeal voting result tweet" %}
+The {% include lightbox-anchor.html text="mountain said No," targetid="mountain-no-tweet" title="Image of Mountain No tweet" %} but {% include lightbox-anchor.html text="not the town." targetid="town-says-yes-tweet" title="Image of Sligo repeal voting result tweet" %}
 
 {% include lightbox-popup.html targetid="cllrroderic" src="/assets/images/cllr-roderic.png" popout-src="https://twitter.com/rodericogorman/status/991642555120078849" %}
 
@@ -34,9 +36,9 @@ For our sisters, our daughters, our girl friends, our mothers,
 
 Politicians did us proud, some more than others,
 
-{% include lightbox-anchor.html text="Car horns beeped" targetid="beep-tweet" title="Image of Beep tweet" %}, online {% include lightbox-anchor.html text="we weeped" targetid="weep-and-joy-tweet" title="Image of tears and joy tweet" %}
+{% include lightbox-anchor.html text="Car horns beeped," targetid="beep-tweet" title="Image of Beep tweet" %} online {% include lightbox-anchor.html text="we weeped," targetid="weep-and-joy-tweet" title="Image of tears and joy tweet" %}
 
-{% include lightbox-anchor.html text="Badges were beacons" targetid="badges-tweet" title="Image of Badge tweet" %}, when comrades we seeked.
+{% include lightbox-anchor.html text="Badges were beacons," targetid="badges-tweet" title="Image of Badge tweet" %} when comrades we seeked.
 
 {% include lightbox-popup.html targetid="beep-tweet" src="/assets/images/beep.png" popout-src="https://twitter.com/mondaygirl/status/999548157733175301" %}
 
@@ -48,13 +50,13 @@ Politicians did us proud, some more than others,
 <hr style="width: 30%; margin-left: auto; margin-right: auto;" />
 <br />
 
-The {% include lightbox-anchor.html text="grandads with ice cream" targetid="grandads-with-ice-cream-tweet" title="Image of Grandads with ice cream tweet" %},
+The {% include lightbox-anchor.html text="grandads with ice cream," targetid="grandads-with-ice-cream-tweet" title="Image of Grandads with ice cream tweet" %}
 
 The lifts to the station,
 
 First jumpers were knitted,
 
-Then {% include lightbox-anchor.html text="knitted the nation" targetid="jumper-tweet" title="Image of heartfelt jumper tweet" %},
+Then {% include lightbox-anchor.html text="knitted the nation." targetid="jumper-tweet" title="Image of heartfelt jumper tweet" %}
 
 {% include lightbox-popup.html targetid="grandads-with-ice-cream-tweet" src="/assets/images/grandads-with-ice-cream.png" popout-src="https://twitter.com/AnTaobhRua/status/999617861747380224" %}
 
@@ -68,7 +70,7 @@ The home to vote heroes,
 
 That came just in time,
 
-Some {% include lightbox-anchor.html text="got Taytos" targetid="home-to-vote-taytos-tweet" title="Image of home-to-vote Tayto tweet" %},
+Some {% include lightbox-anchor.html text="got Taytos," targetid="home-to-vote-taytos-tweet" title="Image of home-to-vote Tayto tweet" %}
 
 As they waited in line.
 
@@ -80,7 +82,7 @@ As they waited in line.
 
 Searching for truth, amongst liars and cheaters,
 
-Our guiding light was the {% include lightbox-anchor.html text="thought of Savita" targetid="savita-tweet" title="Image of Savita tweet" %},
+Our guiding light was the {% include lightbox-anchor.html text="thought of Savita," targetid="savita-tweet" title="Image of Savita tweet" %}
 
 The women made fly, the women made die,
 
