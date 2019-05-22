@@ -11,7 +11,7 @@ $break-large: 1200px;
     text-align: center !important;
     font-family: 'Antic Didone', serif;
     @media screen and (min-width: $break-large) {
-        color: blue;
+        font-weight: 800;
     }
 }
 
