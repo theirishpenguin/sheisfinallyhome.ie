@@ -5,9 +5,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Antic+Didone&display=swap');
 
+$break-large: 1200px;
+
 .main-content > p {
     text-align: center !important;
     font-family: 'Antic Didone', serif;
+    @media screen and (min-width: $break-large) {
+        color: blue;
+    }
 }
 
 .site-footer {
